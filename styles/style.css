@@ -1,0 +1,18 @@
+/* //////////////////HEADER//////////////////// */
+.fa-at-top{
+    margin-left: 6rem;
+}
+
+/* //////////////////NAVABAR/////////////////// */
+.nav-link{
+    font-weight: bold;
+}
+.navbar-brand{
+    padding-left: 30px
+}
+.navbar-nav{
+    padding: 10px 30px;
+}
+.navbar-nav{
+    text-align: right;
+}
